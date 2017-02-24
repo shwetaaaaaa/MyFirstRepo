@@ -1,5 +1,5 @@
-welcome to git
+Welcome to git
 
-change1
+Change 1
 
-change2
+Change 2
